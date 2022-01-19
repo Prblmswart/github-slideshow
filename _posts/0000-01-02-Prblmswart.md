@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Kool Kids Klub
 Use the left arrow to go back!
